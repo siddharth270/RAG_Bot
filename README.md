@@ -6,9 +6,13 @@ The best part?
 No paid APIs. All open-source and completely free.
 
 Here’s what powered it:
+
 ✅PyPDF2 – to break down and parse the PDF files
+
 ✅HuggingFace Transformers – used the sentence-transformers/all-MiniLM-L6-v2 model for chunk-level vector embeddings
+
 ✅FAISS – for blazing-fast similarity search across vectorized content
+
 ✅Ollama – to run local LLM inference efficiently
 
 I enjoyed how everything stitched together seamlessly, and it was refreshing to build something useful without worrying about token limits or API bills.
