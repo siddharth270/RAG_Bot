@@ -1,0 +1,13 @@
+langchain==0.3.23
+langchain-community==0.3.21
+openai
+langchain-pinecone==0.2.5
+langchain-openai==0.3.12
+datasets==3.5.0
+scipy==1.14.1
+numpy==2.2
+faiss-cpu
+sentence-transformers
+PyPDF2
+streamlit
+ollama
