@@ -15,5 +15,4 @@ Here’s what powered it:
 
 ✅Ollama – to run local LLM inference efficiently
 
-I enjoyed how everything stitched together seamlessly, and it was refreshing to build something useful without worrying about token limits or API bills.
-If you're into NLP, AI agents, or building tools that read before they speak, hit me up, always happy to jam on ideas or open-source collabs.
+
