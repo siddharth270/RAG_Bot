@@ -11,3 +11,4 @@ sentence-transformers
 PyPDF2
 streamlit
 ollama
+docx

@@ -1,1 +1,4 @@
 .pdf
+.docx.pdf
+.ipynb_checkpoints/
+__pycache__/
